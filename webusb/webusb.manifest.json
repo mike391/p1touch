@@ -4,8 +4,8 @@
   "new_install_prompt_erase": true,
   "builds": [
     {
-      "chipFamily": "ESP32",
-      "parts": [{ "path": "p1touch.bin", "offset": 0 }]
+      "chipFamily": "ESP32-S3",
+      "parts": [{ "path": "p1touchs3.bin", "offset": 0 }]
     }
   ]
 }
